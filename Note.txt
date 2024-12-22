@@ -1,0 +1,1 @@
+Use this : java --module-path "C:\Users\BAPS\JavaFX\javafx-sdk-23.0.1\lib" --add-modules javafx.controls,javafx.fxml -cp . CalculatorGUI in out/production/
